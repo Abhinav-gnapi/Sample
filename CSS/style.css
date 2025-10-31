@@ -1,0 +1,68 @@
+* {
+    background-color: black;
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: aqua;
+    background-color: blueviolet;
+    display: inline;
+}
+h3 {
+    color: blanchedalmond;
+    font-display: block;
+}
+h4 {
+    color: blue;
+    font-size: 1.5rem;
+}
+h5 {
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.headings {
+    border: 3px solid white;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+div {
+    height: 90px;
+    width: 90px;
+    border: 3px solid blue;
+}
+
+div.headings {
+    width: 120px;
+    height: 300px;
+}
+
+.para {
+    background-color: violet;
+    padding: 15px;
+}
+
+p {
+    display: block;
+}
+
+.para p {
+    color: white;
+    background-color:orange;
+
+}
+
+.red {
+    margin-left: 130px;
+    background-color: red;
+}
+.white {
+    margin-left: 230px;
+    background-color: white;
+    width: 70px;
+    height: 70px;
+}
